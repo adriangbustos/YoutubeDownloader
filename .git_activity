@@ -2,3 +2,4 @@
 # Repository Activity Log - YoutubeDownloader
 2026-09-19T19:24:28 | fix: sanitize downloaded file naming regex
 2026-09-25T20:27:19 | chore: clean up temporary audio extraction artifacts
+2026-09-25T20:39:03 | refactor: enhance yt-dlp parameter passing
