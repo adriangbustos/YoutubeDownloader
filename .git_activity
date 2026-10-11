@@ -5,3 +5,4 @@
 2026-09-25T20:39:03 | refactor: enhance yt-dlp parameter passing
 2026-09-30T21:13:16 | perf: prevent redundant metadata queries on url paste
 2026-10-05T13:15:11 | chore: clean up temporary audio extraction artifacts
+2026-10-11T13:00:26 | fix: sanitize downloaded file naming regex
