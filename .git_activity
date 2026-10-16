@@ -7,3 +7,4 @@
 2026-10-05T13:15:11 | chore: clean up temporary audio extraction artifacts
 2026-10-11T13:00:26 | fix: sanitize downloaded file naming regex
 2026-10-16T15:02:14 | perf: prevent redundant metadata queries on url paste
+2026-10-16T15:45:18 | fix: sanitize downloaded file naming regex
