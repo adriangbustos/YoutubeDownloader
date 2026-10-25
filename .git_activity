@@ -9,3 +9,4 @@
 2026-10-16T15:02:14 | perf: prevent redundant metadata queries on url paste
 2026-10-16T15:45:18 | fix: sanitize downloaded file naming regex
 2026-10-21T21:14:59 | style: polish progress bar transitions and status labels
+2026-10-25T17:07:34 | docs: document format selector flags in README
