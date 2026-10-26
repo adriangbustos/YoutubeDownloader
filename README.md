@@ -23,7 +23,7 @@ A modern, high-performance desktop application built with Python, CustomTkinter,
 ## Directory Structure
 
 ```
-youtube-downloader-pro/
+YoutubeDownloader/
 ├── downloader.py          # Main application and UI code
 ├── iniciar.bat            # Windows 1-click venv bootstrapper & launcher
 ├── requirements.txt       # Python dependencies (customtkinter, yt-dlp)
@@ -50,8 +50,8 @@ Double-click `iniciar.bat`. It will automatically configure the virtual environm
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/adriangbustos/youtube-downloader-pro.git
-   cd youtube-downloader-pro
+   git clone https://github.com/adriangbustos/YoutubeDownloader.git
+   cd YoutubeDownloader
    ```
 
 2. **Create and activate a virtual environment:**
