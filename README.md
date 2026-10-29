@@ -1,10 +1,22 @@
-# YouTube Downloader Pro
+<div align="center">
+  <img src="assets/icon.png" width="96" height="96" alt="YouTube Downloader Pro Icon" />
+  <h1>YouTube Downloader Pro</h1>
+  <p>A modern, high-performance desktop application built with Python, CustomTkinter, and <code>yt-dlp</code> to download YouTube videos in up to 1080p Full HD, extract high-bitrate MP3 audio, and grab clean plain-text transcripts in batch queue mode.</p>
 
-A modern, high-performance desktop application built with Python, CustomTkinter, and `yt-dlp` to download YouTube videos in up to 1080p Full HD, extract high-bitrate MP3 audio, and grab clean plain-text transcripts in batch queue mode.
+  <p>
+    <img src="https://img.shields.io/badge/Platform-Windows-blue" alt="Platform" />
+    <img src="https://img.shields.io/badge/Python-3.10%2B-blue" alt="Python" />
+    <img src="https://img.shields.io/badge/License-MIT-green" alt="License" />
+  </p>
+</div>
 
-![Platform](https://img.shields.io/badge/Platform-Windows-blue)
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+---
+
+## Application Preview
+
+<div align="center">
+  <img src="assets/preview.png" alt="YouTube Downloader Pro Application Preview" width="650" />
+</div>
 
 ---
 
